@@ -1,7 +1,7 @@
 <p>
   👋&nbsp; Hi there! I'm <b>growing developer</b> dajeong kim.🌷 <br/>
   I majored in Math at Sejong University in Seoul Korea. <br/>
-  I am studying python programming at Choongang to be a developer.✨  <br/>
+  I am studying python programming at Choongang Academy to be a developer.✨  <br/>
 </p>
 
 ### 💌 SNS list 💌
