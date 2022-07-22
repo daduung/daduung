@@ -14,16 +14,14 @@
 ### 💡Tech Stack💡
 #### Used at least Once
 <p>
-  <img src="https://img.shields.io/badge/Python-4695EB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-61DAFB?style=flat-square&logo=Java&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-61DAFB?style=flat-square&logo=C&logoColor=black"/>
-  <img src="https://img.shields.io/badge/R-3DDC84?style=flat-square&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jango-02569B?style=flat-square&logo=JANGO&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Linux-0095D5?style=flat-square&logo=Linux&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PowerBI-3178C6?style=flat-square&logo=PowerBI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytorch-007396?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-FA7343?style=flat-square&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-46649B?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-B9062F?style=flat-square&logo=Java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-52E4DC?style=flat-square&logo=C&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-0064FF?style=flat-square&logo=R&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FFA500?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jango-006400?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=Linux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PowerBI-FFD232?style=flat-square&logo=PowerBI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-DB631F?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-FF7DB4?style=flat-square&logo=HTML&logoColor=white"/>
 </p>
